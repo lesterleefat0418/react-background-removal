@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-background-removal/static/css/main.89002c10.css",
+    "main.js": "/react-background-removal/static/js/main.55e8bb89.js",
+    "static/js/453.4b4ab324.chunk.js": "/react-background-removal/static/js/453.4b4ab324.chunk.js",
+    "index.html": "/react-background-removal/index.html",
+    "main.89002c10.css.map": "/react-background-removal/static/css/main.89002c10.css.map",
+    "main.55e8bb89.js.map": "/react-background-removal/static/js/main.55e8bb89.js.map",
+    "453.4b4ab324.chunk.js.map": "/react-background-removal/static/js/453.4b4ab324.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89002c10.css",
+    "static/js/main.55e8bb89.js"
+  ]
+}
